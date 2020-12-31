@@ -1,0 +1,54 @@
+rid {
+    margin: 50px 0 50px;
+  }
+
+.heading {
+  font-size: 2rem;
+}
+
+.flex {
+  flex-direction: row;
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.instruction {
+  flex: 1;
+  margin: 5px;
+}
+
+.symbol1 {
+  margin-right: 10px;
+  padding: 1px;
+  width: 10px;
+  border: 2px solid #000000;
+  background-color: #000000;
+}
+
+.symbol2 {
+  margin-right: 10px;
+  padding: 1px;
+  width: 10px;
+  border: 2px solid #000000;
+  background-color: purple;
+  color: purple;
+}
+
+.symbol3 {
+  margin-right: 10px;
+  padding: 1px;
+  width: 10px;
+  border: 2px solid #000000;
+  background-color: green;
+  color: green;
+}
+
+.symbol4 {
+  margin-right: 10px;
+  padding: 1px;
+  width: 10px;
+  border: 2px solid #000000;
+  background-color: red;
+  color: red;
+}
